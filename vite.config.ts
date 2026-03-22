@@ -8,6 +8,6 @@ export default defineConfig({
     exclude: ['lucide-react'],
   },
   
-  base: '/learning/'
+  base: '/study/'
   
 });
